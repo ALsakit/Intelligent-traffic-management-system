@@ -13,8 +13,8 @@ assignees: ''
    
  ### الافتراضات Details and Assumptions
  * [document what you know]
-   
- ### Acceptance Criteria  معايير القبول
+
+   ### معايير القبول  Acceptance Criteria 
    
  ```gherkin
  Given [نظرا لانني ]
